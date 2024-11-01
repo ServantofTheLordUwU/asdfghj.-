@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<header>
+        <a hd>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalho outubro rosa</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #363636;
+        }
+        header {
+            background-color: #202020;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            width: 100%;
+            height: 15%;
+        }
+        nav {
+            background-color: #b942d6;
+            color: #454a50;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: rgb(0, 26, 255);
+            margin: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline
+         }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #3b3b3b;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(19, 18, 18, 0.1);
+            text-align: center;
+        }
+        footer {
+            background-color: #de8ee6;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+  <img src="Wallpaper-1-1024x576.png" alt="Conscientização do Outubro Rosa" width="1000" height="500"> 
+  
+   
+  <p> <h1>Outubro rosa, cuidar é amar</h1> </p>
+</header>
+
+<nav>
+    <a href="https://www.youtube.com/watch?v=DT3aN20ykn0">Como saber</a>
+    <a href="https://www.youtube.com/watch?v=3WZZMuTJotk">Como previnir</a>
+</nav>
+
+<section>
+    <h2>Mudança tecnologica</h2>
+    <p>Com o avanço da agricultura, chegou-se a um ponto em que maquinarios são utilizados para monitorar lavouras, junto com outros maquinários que aumentam a sustentabilidade. Com isso, fica claro que a relação entre o campo e a cidade é interdependente, pois um sempre precisa do outro em vários cenários. A tecnologia, cada vez mais avançada, traz mais versatilidade e sustentabilidade para o campo. Equipamentos podem ser usados para mapear lavouras, identificar pragas rapidamente e coletar informações sobre o solo e o crescimento das plantas. Esses equipamentos são extremamente úteis para uma população mundial emergente, melhorando as formas de monitorar o campo de maneira sustentável, diminuindo poluentes e gerando empregos e novas formas de trabalho com esses novos maquinários.
+       
+     <h2>Utilidades</h2>
+
+    <p> O investimento na agricultura de precisão resultou em maior sustentabilidade e geração de empregos, aumentando a rentabilidade no campo. No entanto, a sustentabilidade e a geração de empregos ainda enfrentam desafios devido à falta de instrução e demanda por profissionais qualificados, criando dificuldades para a inserção no campo. Em segundo lugar, as regiões que se destacam no uso da tecnologia de agricultura de precisão são principalmente o Sul e o Centro-Oeste, como Goiás, Mato Grosso, Paraná e Rio Grande do Sul, utilizando essa tecnologia nas culturas de milho, soja, cana-de-açúcar e feijão, trazendo mais benefícios para o campo..</p>
+        
+        <header>
+     <h2>Efeitos colaterias</h2>
+
+        <P> Portanto, observa-se que a agricultura de precisão é um tema crucial. As ações necessárias para resolver os problemas incluem o incentivo à criação de oportunidades de emprego e como isso pode contribuir para a causa ambiental. O governo deve investir nessa área para melhor uso e aproveitamento da tecnologia, uma vez que pode fazê-la funcionar. O objetivo é trazer melhorias à agricultura, alcançando um maior retorno econômico e viabilidade. Além disso, a sustentabilidade visa a redução de muitos poluentes e a minimização dos efeitos sobre o meio ambiente, evitando o uso excessivo de agrotóxicos, energia e recursos hídricos, o que traz maior rentabilidade ao campo.
+    <section>
+               
+</html>
